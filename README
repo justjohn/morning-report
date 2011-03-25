@@ -1,0 +1,5 @@
+MORNING REPORT
+
+This script reads from a list of RSS (podcast) feeds defined in feeds.inc and creates a playlist with the first item from each feed in the playlist.
+
+I have a scheduled task setup in Windows that loads the playlist and plays it back using Winamp at 8:30AM every weekday. The goal is to have a playlist that provides updated news and weather in the morning before I leave for work.
